@@ -1,9 +1,9 @@
- 
+ <h2>Welcom to my Github profile</h3>
 
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi😊&fontAlign=30&color=auto&fontSize=30&desc=I'm%20Jihyeon&descAlign=60&descAlignY=50&theme=radical)
 
-<h4>Welcom to my Github profile</h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
