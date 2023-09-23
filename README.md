@@ -1,9 +1,5 @@
  
 
-<a href="https://miro.medium.com/v2/resize:fit:1400/0*_a4r5eBKdIjJ-ViW">
-  <img src="{uploaded image path}">
-</a>
-
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi😊&fontAlign=30&color=auto&fontSize=30&desc=I'm%20Jihyeon&descAlign=60&descAlignY=50&theme=radical)
 
