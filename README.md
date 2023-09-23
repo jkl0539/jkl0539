@@ -3,9 +3,8 @@
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi😊&fontAlign=30&color=auto&fontSize=30&desc=I'm%20Jihyeon&descAlign=60&descAlignY=50&theme=radical)
 
-<h3>🤓Hi, I'm Jihyeon Welcom to my Github</h3>
+<h4>Welcom to my Github profile</h3>
 
-- 💬 Ask me about **react, vue.js and solidity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
