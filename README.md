@@ -1,5 +1,5 @@
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi😊&fontAlign=30&fontSize=30&desc=I'm%20Jihyeon&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi😊&fontAlign=30&color=auto&fontSize=30&desc=I'm%20Jihyeon&descAlign=60&descAlignY=50&theme=radical)
 
 <h3>🤓Hi, I'm Jihyeon Welcom to my Github</h3>
 
