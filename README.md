@@ -1,5 +1,5 @@
 
-<h1>🤓Hi, I'm Jihyeon Welcom to my Github \</h1>
+<h3>🤓Hi, I'm Jihyeon Welcom to my Github</h3>
 
 - 💬 Ask me about **react, vue.js and solidity**
 
