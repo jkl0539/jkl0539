@@ -1,3 +1,8 @@
+ 
+
+<img width="80%" src="[https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif](https://miro.medium.com/v2/resize:fit:1100/0*_a4r5eBKdIjJ-ViW)"/>
+
+
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi😊&fontAlign=30&color=auto&fontSize=30&desc=I'm%20Jihyeon&descAlign=60&descAlignY=50&theme=radical)
 
