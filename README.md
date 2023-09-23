@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+
 
 <h3>🤓Hi, I'm Jihyeon Welcom to my Github</h3>
 
@@ -15,4 +15,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkl0539&show_icons=true&theme=radical)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)    
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
