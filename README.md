@@ -1,5 +1,5 @@
-<h1 align="center">😊Hi there This is Jihyeon Seong,</h1>
-<h3 align="center">🤓매일 매일 기록하며 정리해 나아가는 것을 좋아하는 개발자입니다. \</h3>
+
+<h1>🤓Hi, I'm Jihyeon Welcom to my Github \</h1>
 
 - 💬 Ask me about **react, vue.js and solidity**
 
