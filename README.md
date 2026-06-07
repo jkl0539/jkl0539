@@ -16,19 +16,20 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Contact:</h3>
 <p align="left">
-  <a href="https://github.com/jkl0539" target="_blank">
-    <img src="https://img.shields.io/badge/Tech_Blog-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <!-- GitHub 뱃지 -->
+  <a href="https://github.com/jkl0539" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Tech_Blog-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle;" />
   </a>
 
+  &nbsp;
 
-  <a href="mailto:jihyeon0539@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    <span style="font-size: 16px; margin-left: 5px;">📬 <b>jihyeon0539@gmail.com</b></span>
-  </a>
+  <!-- Gmail 뱃지 + 복사용 텍스트 (정렬 및 폰트 깔끔하게 수정) -->
+  <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;" />
+  <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; margin-left: 6px; vertical-align: middle; color: #c9d1d9;">
+    📬 jihyeon0539@gmail.com
+  </span>
 </p>
-  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
