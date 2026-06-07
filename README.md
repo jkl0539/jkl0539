@@ -21,7 +21,6 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="left" valign="middle" width="50%">
-      <h4 style="color: #7aa2f7; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; margin-top: 0; margin-bottom: 12px; font-size: 16px;">📂 Contact Me</h4>
       <p style="margin: 0 0 10px 0;">
         <a href="https://github.com/jkl0539" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/Tech_Blog-24292e?style=flat-square&logo=github&logoColor=white&labelColor=7aa2f7" alt="GitHub" />
