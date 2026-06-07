@@ -3,16 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#0969da&height=400&section=header" />
 
 
+
 ## 🏢 Experience
 
-
 | Position | Company | Content | Skills | Employment Period |
-| :---: | :---: | :---: | :--- |
-| **Intern** | Administrative Welfare Center | MS Office | Advanced Formulas (VLOOKUP, XLOOKUP, INDEX/MAT skills <br><br> | 2024.05 -<br>2024.10 (6개월) |
-| **Intern** | Election Commission | DBA,<br>Data Scientist | <img src="https://shields.io" height="25"> <img src="https://shields.io" height="25"><br><br> | 2024.2 -<br>2024.04 (2개월) |
-<br><img src="https://shields.io" height="25"><br><br> | 2019.03 -<br>2020.06 (1년 3개월) |
-
-<br>
+| :---: | :---: | :---: | :--- | :---: |
+| **Intern** | Administrative Welfare Center | Eco-friendly Direct Payment Administration | MS Office, Advanced Formulas (VLOOKUP, XLOOKUP, INDEX/MATCH) | 2024.05 - 2024.10<br>(6 months) |
+| **Intern** | Election Commission | Public Election Support Group | DBA, Data Scientist, Data Cleansing, SQL | 2024.02 - 2024.04<br>(2 months) |
+| **[Position]** | [Company] | [Content] | [Skills] | 2019.03 - 2020.06<br>(1 year 3 months) |
 
 ## 🎓 Education
 
