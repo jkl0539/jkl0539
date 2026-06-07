@@ -17,21 +17,14 @@
 
 
 
-## 🎖️ Certifications
 
-<details>
-<summary><b>자격증 목록 보기 (클릭)</b></summary>
-<div markdown="1">
+## 🎖️ Certifications (자격증)
 
-* **정보처리기사** (한국산업인력공단, 2026 예정)
-* **한국사능력검정시험 3급** (국사편찬위원회, 2026)
-* **컴퓨터활용능력 2급** (대한상공회의소, 2025)
-* **AUTOCAD** (Microsoft, 2023)
-* **PYTHON** (Microsoft, 2022)
-
-</div>
-</details>
-
+* 🛡️ **정보처리기사** <img src="https://img.shields.io/badge/준비중-실기시험-blue?style=flat-square">
+* 💻 **컴퓨터활용능력 2급** <img src="https://img.shields.io/badge/대한상공회의소-Certified-success?style=flat-square&color=20c997">
+* 📜 **한국사능력검정시험 3급** <img src="https://img.shields.io/badge/국사편찬위원회-Certified-success?style=flat-square&color=20c997">
+* 💻 **AUTOCAD** <img src="https://img.shields.io/badge/마이크로소프트-Certified-success?style=flat-square&color=20c997">
+* 💻 **PYTHON** <img src="https://img.shields.io/badge/마이크로소프트-Certified-success?style=flat-square&color=20c997">
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
