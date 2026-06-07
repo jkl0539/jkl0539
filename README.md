@@ -1,6 +1,6 @@
  <h2>Welcom to my Github profile</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#0969da&height=450&section=header&type=rect&text=Hi😊" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#0969da&height=400&section=header" />
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hi😊&fontAlign=30&color=auto&fontSize=30&desc=I'm%20Jihyeon&descAlign=60&descAlignY=50&theme=radical)
 
