@@ -40,13 +40,9 @@
         </a>
       </p>
     </td>
-    <td align="right" valign="middle" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=jkl0539&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" style="max-width: 400px;" />
-    </td>
   </tr>
 </table>
-
-<br />
+<br/>
 
 
 
