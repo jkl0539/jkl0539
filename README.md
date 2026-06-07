@@ -26,6 +26,12 @@
 * 💻 **AUTOCAD** <img src="https://img.shields.io/badge/마이크로소프트-Certified-success?style=flat-square&color=20c997">
 * 💻 **PYTHON** <img src="https://img.shields.io/badge/마이크로소프트-Certified-success?style=flat-square&color=20c997">
 
+
+
+
+
+## 👩🏻‍💻 Contact with me
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="left" valign="middle" width="50%">
