@@ -6,7 +6,7 @@
 | :---: | :---: | :---: | :--- | :---: |
 | **Intern** | Administrative Welfare Center | Administration Support | MS Office, Advanced Formulas (VLOOKUP, XLOOKUP, INDEX/MATCH) | 2024.05 - 2024.10<br>(6 months) |
 | **Intern** | Election Commission | Public Election Support | Administrative MS office | 2024.02 - 2024.04<br>(2 months) 
-| **Part time** | Coding Is Academy Jeonju | Academy Instructor | Python Instructor | 2022.01 - 2022.10<br>(10 months) 
+| **Part time** | Coding Is Academy in Jeonju | Academy Instructor | Python Instructor | 2022.01 - 2022.10<br>(10 months) 
 
 ## 🎓 Education
 
