@@ -7,13 +7,6 @@
 | **Intern** | Administrative Welfare Center | Administration Support | MS Office, Advanced Formulas (VLOOKUP, XLOOKUP, INDEX/MATCH) | 2024.05 - 2024.10<br>(6 months) |
 | **Intern** | Election Commission | Public Election Support | Administrative MS office | 2024.02 - 2024.04<br>(2 months) |
 
-## 🏢 Certificaton
-
-| Position | Company | Content | Skills | Employment Period |
-| :---: | :---: | :---: | :--- | :---: |
-| **Intern** | Administrative Welfare Center | Administration Support | MS Office, Advanced Formulas (VLOOKUP, XLOOKUP, INDEX/MATCH) | 2024.05 - 2024.10<br>(6 months) |
-| **Intern** | Election Commission | Public Election Support | Administrative MS office | 2024.02 - 2024.04<br>(2 months) |
-
 
 ## 🎓 Education
 
@@ -24,10 +17,20 @@
 
 
 
+## 🎖️ Certifications
 
-<h3 align="left">💻Connect with me:</h3>
+<details>
+<summary><b>자격증 목록 보기 (클릭)</b></summary>
+<div markdown="1">
 
+* **정보처리기사** (한국산업인력공단, 2026 예정)
+* **한국사능력검정시험 3급** (국사편찬위원회, 2026)
+* **컴퓨터활용능력 2급** (대한상공회의소, 2025)
+* **AUTOCAD** (Microsoft, 2023)
+* **PYTHON** (Microsoft, 2022)
 
+</div>
+</details>
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
