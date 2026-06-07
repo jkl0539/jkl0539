@@ -35,8 +35,19 @@
 
 
 
-<img src="https://rshah.org" alt="jkl0539's GitHub Chart" width="100%">
-<br><br>
+<p>
+  <img src="https://rshah.org" alt="GitHub Chart" width="100%">
+</p>
 
 
-                       
+
+<p align="center">
+  <img src="https://rshah.org" alt="jkl0539's GitHub Chart" width="100%">
+</p>
+<br>
+
+
+<p align="center">
+  <img src="https://herokuapp.com" width="100%">
+</p>
+
