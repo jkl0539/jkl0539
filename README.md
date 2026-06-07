@@ -13,19 +13,20 @@
 | :---: | :---: | :---: | :---: |
 | **Jeonju University<br>(Jeonju Campus)** | Information and Communication Engineering(ICE) | Web Dev, 기획, Design | 2020.03 -<br>2025.02 |
 
-<h3 align="left">Connect with me:</h3>
 
+
+<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
-  <!-- GitHub 뱃지 (클릭 시 본인 깃허브 프로필로 이동) -->
   <a href="https://github.com/jkl0539" target="_blank">
     <img src="https://img.shields.io/badge/Tech_Blog-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  <!-- Gmail 뱃지 (클릭 시 본인에게 메일 쓰기 창이 열림) -->
-  <a href="mailto:jihyeon0539@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;"/> 
+  <span style="font-size: 16px; margin-left: 5px;">📬 <b>jihyeon0539@gmail.com</b></span>
 </p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
