@@ -7,11 +7,21 @@
 | **Intern** | Administrative Welfare Center | Administration Support | MS Office, Advanced Formulas (VLOOKUP, XLOOKUP, INDEX/MATCH) | 2024.05 - 2024.10<br>(6 months) |
 | **Intern** | Election Commission | Public Election Support | Administrative MS office | 2024.02 - 2024.04<br>(2 months) |
 
+## 🏢 Certificaton
+
+| Position | Company | Content | Skills | Employment Period |
+| :---: | :---: | :---: | :--- | :---: |
+| **Intern** | Administrative Welfare Center | Administration Support | MS Office, Advanced Formulas (VLOOKUP, XLOOKUP, INDEX/MATCH) | 2024.05 - 2024.10<br>(6 months) |
+| **Intern** | Election Commission | Public Election Support | Administrative MS office | 2024.02 - 2024.04<br>(2 months) |
+
+
 ## 🎓 Education
 
 | Title | Major | Study Contents | Education Period |
 | :---: | :---: | :---: | :---: |
 | **Jeonju University<br>(Jeonju Campus)** | Information and Communication Engineering(ICE) | Web Dev, 기획, Design | 2020.03 -<br>2025.02 |
+
+
 
 
 
@@ -37,7 +47,7 @@
     </td>
   </tr>
 </table>
-<br/>
+
 
 
 
