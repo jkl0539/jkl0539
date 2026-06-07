@@ -8,8 +8,8 @@
 
 | Position | Company | Content | Skills | Employment Period |
 | :---: | :---: | :---: | :--- | :---: |
-| **Intern** | Administrative Welfare Center | Eco-friendly Direct Payment Administration | MS Office, Advanced Formulas (VLOOKUP, XLOOKUP, INDEX/MATCH) | 2024.05 - 2024.10<br>(6 months) |
-| **Intern** | Election Commission | Public Election Support Group | DBA, Data Scientist, Data Cleansing, SQL | 2024.02 - 2024.04<br>(2 months) |
+| **Intern** | Administrative Welfare Center | Administration Support | MS Office, Advanced Formulas (VLOOKUP, XLOOKUP, INDEX/MATCH) | 2024.05 - 2024.10<br>(6 months) |
+| **Intern** | Election Commission | Public Election Support | Administrative MS office | 2024.02 - 2024.04<br>(2 months) |
 
 
 ## 🎓 Education
