@@ -35,19 +35,8 @@
 
 
 
-<p>
-  <img src="https://rshah.org" alt="GitHub Chart" width="100%">
-</p>
-
-
-
 <p align="center">
-  <img src="https://rshah.org" alt="jkl0539's GitHub Chart" width="100%">
+  <img src="https://github-readme-stats.vercel.co/api?username=jkl0539&show_icons=true&theme=radial" alt="GitHub Stats" width="48%">
+  
+  <img src="https://github-readme-stats.vercel.co/api/top-langs/?username=jkl0539&layout=compact&theme=radial" alt="Top Languages" width="48%">
 </p>
-<br>
-
-
-<p align="center">
-  <img src="https://herokuapp.com" width="100%">
-</p>
-
