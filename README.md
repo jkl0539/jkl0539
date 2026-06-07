@@ -21,7 +21,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="left" valign="middle" width="50%">
-      <p style="margin: 0 0 0 px 0;">
+      <p style="margin: 10px 0 px 0;">
         <a href="https://github.com/jkl0539" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/Tech_Blog-24292e?style=flat-square&logo=github&logoColor=white&labelColor=7aa2f7" alt="GitHub" />
         </a>
