@@ -16,29 +16,44 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<!-- 상단 한 줄 소개 그라데이션 뱃지 -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&background=1A1B2600&vCenter=true&width=450&height=40&lines=👋+Welcome+to+my+GitHub!;💻+Information+%26+Communication+Eng." alt="Typing SVG" />
 </p>
 
 <br />
 
-<!-- 가로 배치 정렬 섹션 -->
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
-  
-  <!-- 왼쪽 세션: 세련된 뱃지 및 메일 정보 -->
-  <div align="left" style="flex: 1; min-width: 300px;">
-    <h4 style="color: #7aa2f7; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; margin-bottom: 12px; font-size: 16px;">📂 Contact Me</h4>
-  </div>
-
-  <!-- 오른쪽 세션: 블루 톤 GitHub 스탯 카드 -->
-  <div align="right" style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jkl0539&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" width="100%" style="max-width: 420px; border-radius: 8px;" />
-  </div>
-
-</div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="left" valign="middle" width="50%">
+      <h4 style="color: #7aa2f7; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; margin-top: 0; margin-bottom: 12px; font-size: 16px;">📂 Contact Me</h4>
+      
+      <p style="margin: 0 0 10px 0;">
+        <a href="https://github.com/jkl0539" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Tech_Blog-24292e?style=flat-square&logo=github&logoColor=white&labelColor=7aa2f7" alt="GitHub"/>
+        </a>
+      </p>
+      
+      <p style="margin: 0;">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jihyeon0539@gmail.com" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Gmail" style="vertical-align: middle;" />
+          <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; margin-left: 8px; vertical-align: middle; color: #a9b1d6;">
+            jihyeon0539@gmail.com
+          </span>
+        </a>
+      </p>
+    </td>
+    
+    <td align="right" valign="middle" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=jkl0539&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" style="max-width: 400px;" />
+    </td>
+  </tr>
+</table>
 
 <br />
+
+
+
+
 <hr style="border: 1px solid #1a1b26;" />
 
 <h3 align="left">Languages and Tools:</h3>
