@@ -1,4 +1,4 @@
- <h2>Welcom to my Github profile</h3>
+ <h2>👋Welcom to my Github profile</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=#0969da&height=400&section=header" />
 
@@ -10,14 +10,14 @@
 | :---: | :---: | :---: | :--- | :---: |
 | **Intern** | Administrative Welfare Center | Eco-friendly Direct Payment Administration | MS Office, Advanced Formulas (VLOOKUP, XLOOKUP, INDEX/MATCH) | 2024.05 - 2024.10<br>(6 months) |
 | **Intern** | Election Commission | Public Election Support Group | DBA, Data Scientist, Data Cleansing, SQL | 2024.02 - 2024.04<br>(2 months) |
-| **[Position]** | [Company] | [Content] | [Skills] | 2019.03 - 2020.06<br>(1 year 3 months) |
+
 
 ## 🎓 Education
 
 
 | Title | Major | Study Contents | Education Period |
 | :---: | :---: | :---: | :---: |
-| **Apple Developer<br>Academy @ POSTECH** | iOS development | <img src="https://shields.io" height="25"><br>App Dev, 기획, Design<br><br> | 2022.03 -<br>2022.12 |
+| **Jeonjus University<br>(Jeonju Campus)** | Information and Communication Engineering(ICE) | <img src="https://shields.io" height="25"><br>Web Dev, 기획, Design<br><br> | 2020.03 -<br>2025.02 |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
