@@ -21,11 +21,14 @@
   <a href="https://github.com/jkl0539" target="_blank">
     <img src="https://img.shields.io/badge/Tech_Blog-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  
-  <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align: middle;"/> 
-  <span style="font-size: 16px; margin-left: 5px;">📬 <b>jihyeon0539@gmail.com</b></span>
-</p>
 
+
+  <a href="mailto:jihyeon0539@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <span style="font-size: 16px; margin-left: 5px;">📬 <b>jihyeon0539@gmail.com</b></span>
+  </a>
+</p>
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
