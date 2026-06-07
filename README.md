@@ -1,6 +1,6 @@
  <h2>👋Welcom to my Github profile</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#0969da&height=400&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#0969da&height=400&section=header" /> 
 
 
 
@@ -33,10 +33,8 @@
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)    
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkl0539&show_icons=true&theme=radical)
-
+<img src="https://rshah.org" alt="jkl0539's GitHub Chart" width="100%">
+<br><br>
 
 
                        
