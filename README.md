@@ -56,7 +56,3 @@
 
 <br>
 
-<p align="center">
-  <!-- Top Languages는 제외하고 오타 없는 블루 스탯 단독 카드 배치 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jkl0539&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="60%">
-</p>
