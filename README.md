@@ -35,7 +35,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="left" valign="middle" width="50%">
-      <p style="margin: 10px 0 px 0;">
+      <p style="margin: 10px px px 0;">
         <a href="https://github.com/jkl0539" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/Tech_Blog-24292e?style=flat-square&logo=github&logoColor=white&labelColor=7aa2f7" alt="GitHub" />
         </a>
@@ -43,7 +43,7 @@
       <p style="margin: 0;">
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jihyeon0539@gmail.com" target="_blank" style="text-decoration: none;">
           <img src="https://img.shields.io/badge/Gmail-db4437?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Gmail" style="vertical-align: middle;" />
-          <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 500; letter-spacing: -0.2px; margin-left: 8px; vertical-align: middle; color: #adbac7;">jihyeon0539@gmail.com</span>
+          <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 500; letter-spacing: 0px; margin-left: 8px; vertical-align: middle; color: #adbac7;"></span>
         </a>
       </p>
     </td>
