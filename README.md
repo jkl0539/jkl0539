@@ -16,11 +16,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&background=1A1B2600&vCenter=true&width=450&height=40&lines=👋+Welcome+to+my+GitHub!;💻+Information+%26+Communication+Eng." alt="Typing SVG" />
-</p>
 
-<br />
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
