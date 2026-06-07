@@ -7,11 +7,10 @@
 
 
 | Position | Company | Content | Skills | Employment Period |
-| :---: | :---: | :---: | :--- | :---: |
-| **근무중** | (주)한화시스템/ICT | 금융서비스 개발 ITO | Java, Spring, JSP 백엔드 및 프론트 개발 중 👨‍💻<br><br> | 2023.06 ~ |
-| **Intern** | BC card | FinTech 기획 개발 | 문서화, PT, Soft skills, Communication<br><br> | 2021.11 -<br>2021.12 (2개월) |
-| **Intern** | Summerce Platform | DBA,<br>Data Scientist | <img src="https://shields.io" height="25"> <img src="https://shields.io" height="25"><br><br> | 2020.07 -<br>2020.12 (6개월) |
-| **(근로/학부연구원)<br>Researcher** | (주)현대메디 | DBA,<br>Data Scientist | <img src="https://shields.io" height="25"><br><img src="https://shields.io" height="25"><br><br> | 2019.03 -<br>2020.06 (1년 3개월) |
+| :---: | :---: | :---: | :--- |
+| **Intern** | Administrative Welfare Center | MS Office | Advanced Formulas (VLOOKUP, XLOOKUP, INDEX/MAT skills <br><br> | 2024.05 -<br>2024.10 (6개월) |
+| **Intern** | Election Commission | DBA,<br>Data Scientist | <img src="https://shields.io" height="25"> <img src="https://shields.io" height="25"><br><br> | 2024.2 -<br>2024.04 (2개월) |
+<br><img src="https://shields.io" height="25"><br><br> | 2019.03 -<br>2020.06 (1년 3개월) |
 
 <br>
 
