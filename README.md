@@ -1,6 +1,6 @@
  <h2>👋Welcom to my Github profile</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#0969da&height=400&section=header" /> 
+
 
 
 
@@ -36,7 +36,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.co/api?username=jkl0539&show_icons=true&theme=radial" alt="GitHub Stats" width="48%">
+  <!-- 깃허브 스탯 블루 카드 -->
+  <img src="https://github-readme-stats.vercel.co/api?username=jkl0539&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
   
-  <img src="https://github-readme-stats.vercel.co/api/top-langs/?username=jkl0539&layout=compact&theme=radial" alt="Top Languages" width="48%">
+  <!-- 사용 언어 비율 블루 카드 -->
+  <img src="https://github-readme-stats.vercel.co/api/top-langs/?username=jkl0539&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
 </p>
